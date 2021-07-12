@@ -1,5 +1,8 @@
-Способы получения значения с Input 
+Способы получения значения с Input в console.log
 
 №1 при помощи (event.target.value)
 №2 при помощи переменной со значением React.create.Ref() // Не забудь подключить реакт 
 вывести (OpInput.current.value)
+
+вывести в на экран 
+смопощью ref и присвоение whatText.current.innerHTML = whatInput.current.value
